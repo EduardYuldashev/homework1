@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\1Обучение Geekbrains\\С#\\HW\\hw1\\hw1.csproj": {}
+    "F:\\1Обучение Geekbrains\\С#\\HW TASK1\\task1\\hw1\\hw1.csproj": {}
   },
   "projects": {
-    "F:\\1Обучение Geekbrains\\С#\\HW\\hw1\\hw1.csproj": {
+    "F:\\1Обучение Geekbrains\\С#\\HW TASK1\\task1\\hw1\\hw1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\1Обучение Geekbrains\\С#\\HW\\hw1\\hw1.csproj",
+        "projectUniqueName": "F:\\1Обучение Geekbrains\\С#\\HW TASK1\\task1\\hw1\\hw1.csproj",
         "projectName": "hw1",
-        "projectPath": "F:\\1Обучение Geekbrains\\С#\\HW\\hw1\\hw1.csproj",
+        "projectPath": "F:\\1Обучение Geekbrains\\С#\\HW TASK1\\task1\\hw1\\hw1.csproj",
         "packagesPath": "C:\\Users\\пользователь\\.nuget\\packages\\",
-        "outputPath": "F:\\1Обучение Geekbrains\\С#\\HW\\hw1\\obj\\",
+        "outputPath": "F:\\1Обучение Geekbrains\\С#\\HW TASK1\\task1\\hw1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
